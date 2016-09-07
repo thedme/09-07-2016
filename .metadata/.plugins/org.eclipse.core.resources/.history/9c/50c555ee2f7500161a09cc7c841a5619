@@ -1,0 +1,5 @@
+package com.aug07projecT.hituesday;
+
+public class UpdateRequest {
+
+}

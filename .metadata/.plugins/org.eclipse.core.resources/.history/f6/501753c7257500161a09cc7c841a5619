@@ -1,0 +1,22 @@
+package com.aug07projecT.hituesday;
+
+public class TheDriver {
+	/**
+	 * The URL of the  lifted sails we want to connect to,
+	 * 
+	 */
+	 
+	 protected static String endpoint ="http://localhost:1337/employee";
+	 
+	 
+	 /**
+	  * The character set to use for encoding URL parameters.
+	  */
+	 protected static String charset = "UTF-8";
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

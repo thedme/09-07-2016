@@ -1,0 +1,20 @@
+package com.aug07projecT.hituesday;
+
+import java.io.*;
+import java.net.*;
+
+/**
+ * @author Dovid Eskenazi
+ * @since 2016-09-06
+ *
+ */
+ 
+ public class PostRequest{
+ /**
+	 * The URL of the  we want to connect to
+	 * 
+	 */
+	 
+	 protected static String endpoint ="http://localhost:1337/employee
+	 
+	 }
